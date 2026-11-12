@@ -1,0 +1,6 @@
+{
+  "name": "PathoTrace AI — Disease Outbreak Monitoring System",
+  "description": "Public health epidemiological surveillance platform built on advanced Data Structures and Algorithms featuring real-time pipeline ingestion, z-score outbreak anomaly detection, graph spread tracing (BFS, DFS, Dijkstra, Union-Find), interactive SIR forecasting, symptom classifier, and priority queue resource allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
